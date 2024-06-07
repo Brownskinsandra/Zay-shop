@@ -1,0 +1,13 @@
+*{
+    margin:0px 5px
+}
+.section4{
+    padding:40px 15px;
+    font-weight: 200;
+    background-color: rgb(38, 51, 67);
+    color: white;
+}
+.section4 a{
+    color: white;
+    font-weight: 300;
+}
